@@ -27,32 +27,38 @@ export default function Home() {
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/oline1.jpg"
+              cover="/img/oline1.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/oline2.jpg"
+              cover="/img/oline2.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/oline3.jpg"
+              cover="/img/oline3.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/oline4.jpg"
+              cover="/img/oline4.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/oline5.jpg"
+              cover="/img/oline5.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/oline6.jpg"
+              cover="/img/oline6.jpg"
+              button="Đăng kí"
             />
           </div>
         </div>
@@ -67,17 +73,20 @@ export default function Home() {
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/offline1.jpg"
+              cover="/img/offline1.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/offline2.jpg"
+              cover="/img/offline2.jpg"
+              button="Đăng kí"
             />
             <Course
               title="Front-end căn bản"
               des="One of the best corporate fashion brands in Sydney"
-              cover="img/offline3.jpg"
+              cover="/img/offline3.jpg"
+              button="Đăng kí"
             />
           </div>
         </div>
@@ -91,7 +100,7 @@ export default function Home() {
                 <strong className="blue">Đặc Biệt</strong>
                 Tại CFD
               </h2>
-              <img src="img/index1.jpg" alt="special" />
+              <img src="/img/index1.jpg" alt="special" />
             </div>
             <div className="content-box">
               <div className="item">
@@ -143,7 +152,7 @@ export default function Home() {
                     consequatur est ipsam enim.
                   </p>
                   <i className="quotaion-mark">
-                    <img src="img/Group.svg" alt="Quotaion-mark" />
+                    <img src="/img/Group.svg" alt="Quotaion-mark" />
                   </i>
                   <div className="social">
                     <i className="icon icon-facebook" />
@@ -152,7 +161,7 @@ export default function Home() {
                 </div>
                 <div className="member-img">
                   <img
-                    data-src="img/member.jpg"
+                    data-src="/img/member.jpg"
                     alt="img-detail"
                     className="swiper-lazy"
                   />
@@ -170,7 +179,7 @@ export default function Home() {
                     consequatur est ipsam enim.
                   </p>
                   <i className="quotaion-mark">
-                    <img src="img/Group.svg" alt="Quotaion-mark" />
+                    <img src="/img/Group.svg" alt="Quotaion-mark" />
                   </i>
                   <div className="social">
                     <i className="icon icon-facebook" />
@@ -179,7 +188,7 @@ export default function Home() {
                 </div>
                 <div className="member-img">
                   <img
-                    data-src="img/member.jpg"
+                    data-src="/img/member.jpg"
                     alt="img-detail"
                     className="swiper-lazy"
                   />
@@ -197,7 +206,7 @@ export default function Home() {
                     consequatur est ipsam enim.
                   </p>
                   <i className="quotaion-mark">
-                    <img src="img/Group.svg" alt="Quotaion-mark" />
+                    <img src="/img/Group.svg" alt="Quotaion-mark" />
                   </i>
                   <div className="social">
                     <i className="icon icon-facebook" />
@@ -206,7 +215,7 @@ export default function Home() {
                 </div>
                 <div className="member-img">
                   <img
-                    data-src="img/member.jpg"
+                    data-src="/img/member.jpg"
                     alt="img-detail"
                     className="swiper-lazy"
                   />
@@ -224,7 +233,7 @@ export default function Home() {
                     consequatur est ipsam enim.
                   </p>
                   <i className="quotaion-mark">
-                    <img src="img/Group.svg" alt="Quotaion-mark" />
+                    <img src="/img/Group.svg" alt="Quotaion-mark" />
                   </i>
                   <div className="social">
                     <i className="icon icon-facebook" />
@@ -233,7 +242,7 @@ export default function Home() {
                 </div>
                 <div className="member-img">
                   <img
-                    data-src="img/member.jpg"
+                    data-src="/img/member.jpg"
                     alt="img-detail"
                     className="swiper-lazy"
                   />
@@ -251,7 +260,7 @@ export default function Home() {
                     consequatur est ipsam enim.
                   </p>
                   <i className="quotaion-mark">
-                    <img src="img/Group.svg" alt="Quotaion-mark" />
+                    <img src="/img/Group.svg" alt="Quotaion-mark" />
                   </i>
                   <div className="social">
                     <i className="icon icon-facebook" />
@@ -260,7 +269,7 @@ export default function Home() {
                 </div>
                 <div className="member-img">
                   <img
-                    data-src="img/member.jpg"
+                    data-src="/img/member.jpg"
                     alt="img-detail"
                     className="swiper-lazy"
                   />
@@ -272,12 +281,12 @@ export default function Home() {
             {/* Add Arrows */}
             <div className="btn-ctr --pre">
               <i>
-                <img src="img/arrow.svg" alt="arrow" />
+                <img src="/img/arrow.svg" alt="arrow" />
               </i>
             </div>
             <div className="btn-ctr --next">
               <i>
-                <img src="img/next.svg" alt="arrow" />
+                <img src="/img/next.svg" alt="arrow" />
               </i>
             </div>
           </div>
@@ -290,27 +299,27 @@ export default function Home() {
         <div className="team__wrap">
           <div className="swiper-wrapper ">
             <div className="swiper-slide">
-              <img data-src="img/oline5.jpg" alt="" className="swiper-lazy" />
+              <img data-src="/img/oline5.jpg" alt="" className="swiper-lazy" />
               <div className="swiper-lazy-preloader" />
             </div>
             <div className="swiper-slide">
-              <img data-src="img/oline2.jpg" alt="" className="swiper-lazy" />
+              <img data-src="/img/oline2.jpg" alt="" className="swiper-lazy" />
               <div className="swiper-lazy-preloader" />
             </div>
             <div className="swiper-slide">
-              <img data-src="img/oline3.jpg" alt="" className="swiper-lazy" />
+              <img data-src="/img/oline3.jpg" alt="" className="swiper-lazy" />
               <div className="swiper-lazy-preloader" />
             </div>
             <div className="swiper-slide">
-              <img data-src="img/oline4.jpg" alt="" className="swiper-lazy" />
+              <img data-src="/img/oline4.jpg" alt="" className="swiper-lazy" />
               <div className="swiper-lazy-preloader" />
             </div>
             <div className="swiper-slide">
-              <img data-src="img/oline5.jpg" alt="" className="swiper-lazy" />
+              <img data-src="/img/oline5.jpg" alt="" className="swiper-lazy" />
               <div className="swiper-lazy-preloader" />
             </div>
             <div className="swiper-slide">
-              <img data-src="img/oline6.jpg" alt="" className="swiper-lazy" />
+              <img data-src="/img/oline6.jpg" alt="" className="swiper-lazy" />
               <div className="swiper-lazy-preloader" />
             </div>
           </div>

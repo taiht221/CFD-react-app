@@ -12,13 +12,22 @@ import RegisterCourse from "./pages/register-course";
 import RegisterSuccess from "./pages/register-success";
 import Team from "./pages/team";
 import Rule from "./pages/rule";
+import Overlay from "./components/Overlay";
+import SignUp from "./components/SignUp";
+import LogIn from "./components/LogIn";
+import Page404 from "./pages/Page404";
 
 function App() {
   return (
     <Router>
       <div className="App">
+      {/* pop-up */}
+        <SignUp/>
+        <LogIn/>
+        <Overlay/>
+      {/* HEADER */}
         <Header />
-
+        {/* MAIN */}
         <main>
           <Switch>
             <Route path="/" exact>
@@ -51,8 +60,12 @@ function App() {
             <Route path="/dieu-khoan">
               <Rule />
             </Route>
+            <Route>
+              <Page404/>
+            </Route>
           </Switch>
         </main>
+        {/* FOOTER */}
         <Footer />
       </div>
     </Router>

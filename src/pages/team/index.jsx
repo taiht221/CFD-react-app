@@ -11,7 +11,7 @@ export default function Team() {
         <div className="team__mentors">
           <div className="mentors-card">
             <div className="img">
-              <img src="img/Nt.jpg" alt="NT" />
+              <img src="/img/Nt.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Trần Nghĩa</h2>
@@ -20,7 +20,7 @@ export default function Team() {
           </div>
           <div className="mentors-card">
             <div className="img">
-              <img src="img/DTV.jpg" alt="NT" />
+              <img src="/img/DTV.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>đặng thuyền vương</h2>
@@ -29,7 +29,7 @@ export default function Team() {
           </div>
           <div className="mentors-card">
             <div className="img">
-              <img src="img/DTQ.jpg" alt="NT" />
+              <img src="/img/DTQ.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>đặng thuyền quân</h2>
@@ -38,7 +38,7 @@ export default function Team() {
           </div>
           <div className="mentors-card">
             <div className="img">
-              <img src="img/NDQ.jpg" alt="NT" />
+              <img src="/img/NDQ.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>nguyễn đức huy</h2>
@@ -49,7 +49,7 @@ export default function Team() {
         <div className="team__students">
           <div className="students-card">
             <div className="img">
-              <img src="img/studen1.jpg" alt="NT" />
+              <img src="/img/studen1.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Diệp ANH THY</h2>
@@ -58,7 +58,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen2.jpg" alt="NT" />
+              <img src="/img/studen2.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Tiến Tài</h2>
@@ -67,7 +67,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen3.jpg" alt="NT" />
+              <img src="/img/studen3.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>ngô thành long</h2>
@@ -76,7 +76,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen4.jpg" alt="NT" />
+              <img src="/img/studen4.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Trần anh tuấn</h2>
@@ -85,7 +85,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen1.jpg" alt="NT" />
+              <img src="/img/studen1.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Diệp ANH THY</h2>
@@ -94,7 +94,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen2.jpg" alt="NT" />
+              <img src="/img/studen2.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Tiến Tài</h2>
@@ -103,7 +103,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen3.jpg" alt="NT" />
+              <img src="/img/studen3.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>ngô thành long</h2>
@@ -112,7 +112,7 @@ export default function Team() {
           </div>
           <div className="students-card">
             <div className="img">
-              <img src="img/studen4.jpg" alt="NT" />
+              <img src="/img/studen4.jpg" alt="NT" />
             </div>
             <div className="text">
               <h2>Trần anh tuấn</h2>

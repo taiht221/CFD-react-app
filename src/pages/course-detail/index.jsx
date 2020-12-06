@@ -93,7 +93,7 @@ export default function CourseDetail(){
                 <h2>Người dạy</h2>
                 <div className="mentor__infor">
                   <div className="mentor__img">
-                    <img src="img/Nt.jpg" alt="Nghia tran" />
+                    <img src="/img/Nt.jpg" alt="Nghia tran" />
                   </div>
                   <div className="mentor__text">
                     <h3>
@@ -130,14 +130,14 @@ export default function CourseDetail(){
                 <h2 className="main-title">dự án <strong>học viên</strong> </h2>
                 <div className="online-courses__wrap">
                   <div className="course">
-                    <a href="course-detail.html" className="course__img"><img src="img/oline1.jpg" alt="" /></a>
+                    <a href="course-detail.html" className="course__img"><img src="/img/oline1.jpg" alt="" /></a>
                     <a href="course-detail.html" className="course__name">
                       <h3>Furnitow</h3>
                     </a>
                     <p>One of the best corporate fashion brands in Sydney</p>
                     <div className="teacher">
                       <div className="teacher__infor">
-                        <img src="img/member.jpg" alt="teacher" />
+                        <img src="/img/member.jpg" alt="teacher" />
                         <span>Trần Nghĩa</span>
                       </div>
                       <div className="detail">
@@ -146,14 +146,14 @@ export default function CourseDetail(){
                     </div>
                   </div>
                   <div className="course">
-                    <a href="course-detail.html" className="course__img"><img src="img/oline2.jpg" alt="" /></a>
+                    <a href="course-detail.html" className="course__img"><img src="/img/oline2.jpg" alt="" /></a>
                     <a href="course-detail.html" className="course__name">
                       <h3>Gbox</h3>
                     </a>
                     <p>One of the best corporate fashion brands in Sydney</p>
                     <div className="teacher">
                       <div className="teacher__infor">
-                        <img src="img/member.jpg" alt="teacher" />
+                        <img src="/img/member.jpg" alt="teacher" />
                         <span>Trần Nghĩa</span>
                       </div>
                       <div className="detail">
@@ -162,14 +162,14 @@ export default function CourseDetail(){
                     </div>
                   </div>
                   <div className="course">
-                    <a href="course-detail.html" className="course__img"><img src="img/oline3.jpg" alt="" /></a>
+                    <a href="course-detail.html" className="course__img"><img src="/img/oline3.jpg" alt="" /></a>
                     <a href="course-detail.html" className="course__name">
                       <h3>Kymco</h3>
                     </a>
                     <p>One of the best corporate fashion brands in Sydney</p>
                     <div className="teacher">
                       <div className="teacher__infor">
-                        <img src="img/member.jpg" alt="teacher" />
+                        <img src="/img/member.jpg" alt="teacher" />
                         <span>Trần Nghĩa</span>
                       </div>
                       <div className="detail">

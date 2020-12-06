@@ -25,7 +25,7 @@ export default function LogIn() {
             <label htmlFor="vehicle1"> Nhớ mật khẩu</label>
           </div>
           <div>
-            <a href>Quên mật khẩu?</a>
+            <a href="true">Quên mật khẩu?</a>
           </div>
         </div>
         <button type="submit" className="form-submit">

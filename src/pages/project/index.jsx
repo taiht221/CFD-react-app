@@ -10,7 +10,7 @@ export default function Project() {
         <div className="project__wrap">
           <div className="project__card">
             <div className="img">
-              <img src="img/project1.jpg" alt="project" />
+              <img src="/img/project1.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>furnitown</h2>
@@ -19,7 +19,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project2.jpg" alt="project" />
+              <img src="/img/project2.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>gbox</h2>
@@ -28,7 +28,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project3.jpg" alt="project" />
+              <img src="/img/project3.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>kymco</h2>
@@ -37,7 +37,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project4.jpg" alt="project" />
+              <img src="/img/project4.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>furnitown</h2>
@@ -46,7 +46,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project5.jpg" alt="project" />
+              <img src="/img/project5.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>furnitown</h2>
@@ -55,7 +55,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project6.jpg" alt="project" />
+              <img src="/img/project6.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>furnitown</h2>
@@ -64,7 +64,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project7.jpg" alt="project" />
+              <img src="/img/project7.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>furnitown</h2>
@@ -73,7 +73,7 @@ export default function Project() {
           </div>
           <div className="project__card">
             <div className="img">
-              <img src="img/project8.jpg" alt="project" />
+              <img src="/img/project8.jpg" alt="project" />
             </div>
             <div className="text">
               <h2>furnitown</h2>
